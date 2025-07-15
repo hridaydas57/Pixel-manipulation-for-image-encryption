@@ -1,0 +1,2 @@
+# Pixel-manipulation-for-image-encryption
+Prodigy infotech - Task- 2-  I developed a Python tool with the help of AI that encrypts and decrypts images using XOR-based pixel manipulation. By applying a secret key to each pixel's RGB value, the image is scrambled in a reversible way. Using the same key again, the original image is restored. 
